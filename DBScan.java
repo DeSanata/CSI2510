@@ -2,6 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.util.Random;
 import java.io.BufferedReader;
+import java.io.PrintWriter;
 //class DBScan 
 public class DBScan{
 	//Variables
